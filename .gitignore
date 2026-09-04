@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Temporary/cache
+*.tmp
+*.temp
+.cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Raw cyclone/satellite datasets
+backend/data/raw/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+# Processed/generated satellite imagery
+backend/data/processed/satellite/
+
+# AI model weights
+*.pth
+*.pt
+*.h5
+*.keras

@@ -1,0 +1,4 @@
+image_path,storm_id,storm_name,timestamp,latitude,longitude,wind_speed,pressure,satellite,band
+data/processed/satellite/nisarga_20200603_0600/nisarga_b13_geographic_512.png,2020153N13072,,2020-06-03 06:00:00,18.1,72.9,,,Himawari-8,B13
+data/processed/satellite/nisarga_20200603_0900/nisarga_b13_geographic_512.png,2020153N13072,,2020-06-03 09:00:00,18.5,73.2,,,Himawari-8,B13
+data/processed/satellite/nisarga_20200603_1200/nisarga_b13_geographic_512.png,2020153N13072,,2020-06-03 12:00:00,19.1,73.7,,,Himawari-8,B13
